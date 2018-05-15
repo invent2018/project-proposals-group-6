@@ -1,30 +1,34 @@
-# Ridiculously Catchy Title
+# Fine Print Extractor
 ## Super Catchy Slogan
 
 Group members: 
-* Apple
-* Banana
-* Char Kway Teow
-
-Feel free to change the headers, but do address the points raised. 
+* Ku Shang Yi
+* Mikhil Anand
 
 ## Audience
-Whose problems are we trying to solve?
+* General Internet users
+* People with sight disabilities (e.g long-sighted)
 
 ## Problems
-What problems are people facing?
-How are these already being solved?
+* There’s too much content to read in T&C
+* It may be difficult to read content in small print, especially for people with eyesight problems
+* People may miss out on important information if they do not read T&Cs or fine print on advertisements etc.
+* https://tosdr.org/ - Terms of Service Didn’t Read; An open source project that aims to make terms and conditions simpler for internet users to read
 
 ## Solution
-What’s your solution, in one sentence? 
-Can you find an analogy to describe it? 
+* A program that extracts relevant information from T&C and fine print
 
 ## Assumptions
-What assumptions are we making that the project depends on?
+* People don’t read the terms and conditions
+* People want/need to read the terms and conditions
+* The information pulled out from the fine print is important
 
 ## Unique Selling Point
-Our version will succeed because
+* Other software with similar functions require manual review and input of T&C, or requires users to open the T&C page and search for a specific phrase in the T&C
+* We will be developing a chrome extension that automatically finds the T&C, and automatically summarises the key points before displaying them to the user
 
 ## Competitors
-What competitors are there? List 5. Surely you can google 5.
-Why are we better or different?
+* Terms of Services Didn’t Read
+* TOSback.org
+* Clickwrapped
+* Terms and Conditions Checker (Chrome Extension)
