@@ -1,5 +1,12 @@
 # INVENT Project Proposals
 
+Personal Websites Links:
+* bombbird2001.github.io
+* sasmik23.github.io
+
+Lean canvas:
+https://canvanizer.com/canvas/rdIxkyW72g8Qr
+
 This repository is to store your project proposals. How to use:
 
 * Figure out Git, perhaps with [Try Git](http://try.github.io/)
