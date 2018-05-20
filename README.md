@@ -1,8 +1,8 @@
 # INVENT Project Proposals
 
 Personal Websites Links:
-* bombbird2001.github.io
-* sasmik23.github.io
+* https://bombbird2001.github.io
+* https://sasmik23.github.io
 
 Lean canvas:
 https://canvanizer.com/canvas/rdIxkyW72g8Qr
